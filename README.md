@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/kunjpatel101" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kunjpatel.work@gmail.com">
+  <a href="mailto:kunjpatel91012@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
