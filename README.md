@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Enthusiast | Automation Builder | Fast Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building intelligent systems;Exploring AI automations;Learning. Building. Growing.&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&separator=%3C&lines=Building+intelligent+systems;Exploring+AI+automations;Learning.+Building.+Growing." />
 </p>
 
 ---
